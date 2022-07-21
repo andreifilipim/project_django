@@ -1,0 +1,16 @@
+asgiref==3.5.2
+beautifulsoup4==4.11.1
+bs4==0.0.1
+distlib==0.3.5
+Django==4.0.6
+filelock==3.7.1
+platformdirs==2.5.2
+pypiwin32==223
+python-dotenv==0.20.0
+pywin32==304
+six==1.16.0
+soupsieve==2.3.2.post1
+sqlparse==0.4.2
+tzdata==2022.1
+virtualenv==20.15.1
+win10toast==0.9
